@@ -14,15 +14,26 @@ int price;
 
 ## この変数名はどう改善できる？
 
-1. kekka: 関数の返り値。 → result など
-1. name: ユーザーの苗字と名前。 → fullName など
-1. active: ブーリアン型で今ユーザーがこのサイトを見ているかを格納する → isActive など
-1. array: 数値が入った配列。 → numbers, numArr など
-1. userList: ユーザーの情報が入った配列。 → users など
-1. element: 1つ上の問題の userList から取り出した値 → user など
+```
 
-**ここに画像を入れる**
+kekka: 関数の返り値。 → result など
 
+name: ユーザーの苗字と名前。 → fullName など
+
+active: ブーリアン型で今ユーザーがこのサイトを見ているかを格納する → isActive など
+
+array: 数値が入った配列。 → numbers, numArr など
+
+userList: ユーザーの情報が入った配列。 → users など
+
+element: 1つ上の問題の userList から取り出した値 → user など
+
+```
+
+`active` のイメージ図 👇
+
+![image1](https://i.ibb.co/XS0Nc80/Screen-Shot-2022-06-21-at-1-13-08.png)
+![image2](https://i.ibb.co/0Yxktks/Screen-Shot-2022-06-21-at-1-15-13.png)
 
 ## まとめ
 
@@ -32,7 +43,7 @@ int price;
   - 複数あるもの？（配列など）
     - 中身は何になる？ （数値が入っているなら配列の変数名を "array" ではなく "numbers" にするなど
 
-✨ コメントの要らないコードを書こう！
+✨ コメントでの説明が要らないくらい分かりやすいコードを書こう！
 
 ## 参考
 
