@@ -22,7 +22,7 @@ rad.json
 TestResults.xml
 #for Mac
 *.DS_Store
-# usualy edit this folder
-_lesson-template
-_lesson-template_01-13
-_lesson-template_14-20
+
+### This repository ###
+
+_instructer-note.md
